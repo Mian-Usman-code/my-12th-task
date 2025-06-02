@@ -1,0 +1,103 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.div1{
+    padding: 10px;
+    padding-left: 180px;
+    
+
+}
+
+
+
+.section-top{
+    display: flex;
+    flex-flow: row;
+    gap: 30px;
+    justify-content:center;
+    text-align: center;
+    
+}
+.sec-top-items{
+    border: solid 1px lightgray;
+    border-radius: 20px;
+    width: 230px;
+    height: 250px;
+}
+
+.sec-top-img{
+    width: 200px;
+    height: 200px;
+}
+
+
+
+.section-scnd{
+    padding-top: 50px;
+    position: relative;
+    display: flex;
+    flex-flow: row;
+    gap: 20px;
+    justify-content: center;
+}
+.sec-scnd-item{
+    position: absolute;
+    padding: 50px;
+    
+}
+.sec-scnd-btn{
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 80px;
+     border-radius: 10px
+
+}
+
+
+.section-thrd{
+    display: flex;
+    flex-flow: row;
+    gap: 50px;
+    justify-content: center;
+
+}
+.sec-thrd-item{
+    border: solid 1px lightgray;
+    border-radius: 10px;
+    width: 350px;
+    height: 300px;
+    text-align: center;
+
+}
+.sec-thrd-img{
+    width: 260px;
+    height: 250px;
+
+}
+
+
+
+.section-frth{
+    
+    padding-top: 50px;
+    position: relative;
+    justify-items: center;
+    
+
+}
+.sec-frth-item{
+    position: absolute;
+    padding: 50px;
+   
+}
+.sec-frth-btn{
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+
+}
